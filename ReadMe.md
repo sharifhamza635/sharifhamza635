@@ -1,9 +1,90 @@
-# 💫 About Me:
-I'm Hamza Sharif, a developer and security enthusiast working across AI/ML, data science, cybersecurity, and systems programming. I build in Python, C++, Java, JavaScript, and Rust, with projects spanning neural networks, NLP, computer vision, data pipelines, CLI tooling, and cryptographic engineering. On the security side, I do penetration testing, CTF competitions, and network reconnaissance using Kali Linux, Wireshark, Nmap, Burp Suite, and custom Python exploit tools. Always learning, always building.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=200&section=header&text=Hamza%20Sharif&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Builder%20%2B%20Researcher%20%7C%20AI%2FML%20%C2%B7%20Cybersecurity%20%C2%B7%20Systems&descSize=18&descAlignY=55" width="100%"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hamzasharif635) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-sharif-5b9abb327/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@HamzaSharif88) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharifhamza635@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=600&color=70A5FD&center=true&vCenter=true&width=700&lines=Builder+%2B+Researcher;AI%2FML+%C2%B7+Cybersecurity+%C2%B7+Neurotech;Founder+%40+Scout+Atlas;Always+learning.+Always+building." />
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+</div>
+
+## 🧠 About Me
+
+Developer and security engineer working across **AI/ML, data science, cybersecurity, and systems programming**. I build in Python, C++, Rust, and Bash — neural networks, NLP, computer vision, data pipelines, CLI tooling, and cryptographic engineering. On the security side: penetration testing, CTF competitions, and network reconnaissance with Kali, Wireshark, Nmap, Burp Suite, and custom exploit tooling.
+
+- 🚀 Currently building: **Scout Atlas**
+- 🔬 Researching: **neuroscience × machine learning**
+- 📍 Riyadh, Saudi Arabia
+
+## ⚙️ Tech Stack
+
+**Languages & Systems**
+
+<img src="https://skillicons.dev/icons?i=py,cpp,rust,bash,powershell,js,ts&theme=dark" />
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda&theme=dark" />
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=flask,django,fastapi,nodejs,nginx,mysql,postgres,sqlite,redis&theme=dark" />
+
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,gcp,git,github,githubactions,gitlab&theme=dark" />
+
+**Security & Operating Systems**
+
+<img src="https://skillicons.dev/icons?i=linux,arch,kali,debian,ubuntu&theme=dark" />
+
+<img src="https://img.shields.io/badge/BlackArch-cc0000?style=for-the-badge&logo=archlinux&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Nmap-004080?style=for-the-badge" /> <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge" /> <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white" />
+
+**Hardware & Embedded**
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
+
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+
+**Design & Tools**
+
+<img src="https://skillicons.dev/icons?i=figma,notion,latex,cmake&theme=dark" />
+
+## 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sharifhamza635&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharifhamza635&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+
+<img src="https://streak-stats.demolab.com?user=sharifhamza635&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharifhamza635&theme=tokyo-night&hide_border=true" width="100%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=sharifhamza635&theme=tokyonight&no-frame=true&column=7&margin-w=8" width="100%" />
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sharifhamza635/sharifhamza635/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sharifhamza635/sharifhamza635/output/github-snake.svg" alt="snake animation" />
+</picture>
+</div>
+
+## 🌐 Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/hamza-sharif-5b9abb327"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/sharifhamza635"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://orcid.org/0009-0004-8252-6846"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
+<a href="mailto:sharifhamza635@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=sharifhamza635&style=for-the-badge&color=70a5fd" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=120&section=footer" width="100%"/>
+
+</div>
